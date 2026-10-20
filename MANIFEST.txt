@@ -1,0 +1,12 @@
+.github/copilot-instructions.md
+.github/instructions/nestjs.instructions.md
+.github/instructions/odd-workflow.instructions.md
+.github/instructions/testing.instructions.md
+.github/prompts/nestjs-feature.prompt.md
+.github/prompts/odd-investigate.prompt.md
+.github/prompts/odd-start.prompt.md
+.github/prompts/odd-verify.prompt.md
+README.md
+docs/acceptance-tests.md
+odd/tasks/FEATURE-TEMPLATE.md
+odd/tasks/README.md
